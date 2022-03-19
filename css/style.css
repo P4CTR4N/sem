@@ -1,0 +1,39 @@
+@media (min-width: 576px){
+.navBar {
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: 1px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    }
+}
+.navBar {
+    position: relative;
+    padding: 2rem;
+    margin: 2rem -.75rem 2;
+    border: solid #dee2e6;
+    border-width: 1px 0 0;
+}
+.titulos {
+    font-family: 'Roboto Condensed';
+    font-weight: bold;
+    line-height: 64px;
+    letter-spacing: 0.9px;
+    color: #0e789c;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+.texto{
+    position: relative;
+    padding: 4rem;
+    margin: -3rem 0 0;
+    text-align: justify;
+}
+a{
+    font-size: 1.25rem;
+}
+.imagenes{
+    text-align: center;
+}
